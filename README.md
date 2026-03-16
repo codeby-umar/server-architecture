@@ -1,4 +1,4 @@
-# 🚀 Loyiha Nomi (Masalan: Real Estate API)
+# 🚀 Loyiha Nomi Real Estate API
 
 Bu loyiha Node.js va Express yordamida yaratilgan bo'lib, [loyihaning qisqacha mazmuni, masalan: ko'chmas mulk oldi-sotdisini boshqarish] uchun xizmat qiladi.
 
@@ -20,5 +20,3 @@ Bu loyiha Node.js va Express yordamida yaratilgan bo'lib, [loyihaning qisqacha m
 Loyiha nusxasini lokal kompyuteringizga yuklab oling:
 
 ```bash
-git clone [https://github.com/Ishtiak007/](https://github.com/Ishtiak007/)[repozitoriya-nomi].git
-cd [repozitoriya-nomi]

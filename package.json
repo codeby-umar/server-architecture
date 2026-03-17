@@ -1,0 +1,20 @@
+{
+  "name": "codebyumar.uz",
+  "version": "1.0.0",
+  "description": "Bu loyiha Node.js va Express yordamida yaratilgan bo'lib, [loyihaning qisqacha mazmuni, masalan: ko'chmas mulk oldi-sotdisini boshqarish] uchun xizmat qiladi.",
+  "homepage": "https://github.com/codeby-umar/Node-js-server#readme",
+  "bugs": {
+    "url": "https://github.com/codeby-umar/Node-js-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeby-umar/Node-js-server.git"
+  },
+  "license": "ISC",
+  "author": "Muhammad Umar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

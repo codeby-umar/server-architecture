@@ -223,3 +223,20 @@ console.log(`Sizni portingiz ${server.address().port} ishlashni boshladim ...`);
 
 
 
+const https = require("http")
+// const server = https.createServer((req , res)=>{
+
+//     // const users = [
+//     //     {
+        
+//     //     }
+//     // ]
+
+//      if(req.url === "/"){
+//         res.write("Bizning birinchi serverimiz ishga tushdi ...")
+//      }
+//      res.end()
+// });
+
+// server.listen(8000);
+// console.log(`Sizning serveringiz ${server.address().port} ishlayapti ...`)

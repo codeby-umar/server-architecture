@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/system-flow.png" width="85%" alt="Real Estate System Flow" />
+  <img src="look.png" width="100%" alt="Real Estate System Flow" />
 </p>
 
 # 🏠 Enterprise Real Estate API
